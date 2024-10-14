@@ -1,7 +1,6 @@
 {
 	"$schema": "https://schema.tauri.app/config/2.0.0",
 	"productName": "EcoPaste",
-	"mainBinaryName": "EcoPaste",
 	"version": "../package.json",
 	"identifier": "com.ayangweb.EcoPaste",
 	"build": {
